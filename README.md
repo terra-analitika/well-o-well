@@ -1,4 +1,4 @@
-# OpenPetrophysics
+# well-o-well
 
 **by Yohanes Nuwara**
 
